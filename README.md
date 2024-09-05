@@ -1,4 +1,4 @@
-# Proyecto 5: Pruebas de Aplicación movil para una aplicación de pedir comidas  Urban Lunch
+# Proyecto 5: Pruebas de una Aplicación movil con Android Studio
 
 ## Descripción del Proyecto
 
